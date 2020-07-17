@@ -51,6 +51,6 @@ share.
 3. [GitHub to replace default “master” language](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/)
 4. [Team Diversity Benefits and Costs](https://en.wikipedia.org/wiki/Team_diversity#Benefits_and_costs_to_teams)
 5. [Diversity and Inclusion At Work: Eight Powerful Truths](https://www2.deloitte.com/us/en/insights/deloitte-review/issue-22/diversity-and-inclusion-at-work-eight-powerful-truths.html)
-6. [Racial Bias in AI/ML in Health Care](https://www.nature.com/articles/d41586-019-03228-6)
+6. [Racial Bias in AI/ML in Health Care](https://www.scientificamerican.com/article/racial-bias-found-in-a-major-health-care-risk-algorithm/)
 7. [Algorithmic Bias](https://en.wikipedia.org/wiki/Algorithmic_bias)
 8. [Five Years of Tech Diversity Reports – And Little Progress](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/)
